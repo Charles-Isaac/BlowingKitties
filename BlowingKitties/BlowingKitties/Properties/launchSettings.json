@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlowingKitties": {
+      "commandName": "Project",
+      "commandLineArgs": "/s"
+    }
+  }
+}
